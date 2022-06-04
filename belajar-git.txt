@@ -1,5 +1,5 @@
 belajar git
 -belajar sehari 2 kali secara konsisten
 -buat study kasus dari hasil belajar 
--buat kelompok belajar
 -membuat jadwal rutin untuk pertemuan belajar
+-membuat vlog belajar

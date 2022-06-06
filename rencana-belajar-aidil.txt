@@ -1,0 +1,5 @@
+Rencana belajar aidil
+-git/github
+-html
+-css
+-javascript dan php

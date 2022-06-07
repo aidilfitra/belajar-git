@@ -1,8 +1,11 @@
 Rencana belajar aidil
 -git/github
+-struktur data
 -html
 -css
  *css dasar
  *css layout
  *css3
 -javascript dan php
+-framework javascript
+-frmaework php

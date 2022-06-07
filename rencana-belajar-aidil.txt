@@ -8,4 +8,9 @@ Rencana belajar aidil
  *css3
 -javascript dan php
 -framework javascript
+ *angular
+ *react
 -frmaework php
+ *laravel
+ *ci
+ 

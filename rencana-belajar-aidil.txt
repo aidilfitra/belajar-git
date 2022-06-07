@@ -1,6 +1,5 @@
 Rencana belajar aidil
 -git/github
--struktur data
 -html
 -css
  *css dasar
@@ -8,4 +7,9 @@ Rencana belajar aidil
  *css3
 -javascript dan php
 -framework javascript
+ *vue 
+ *react
 -frmaework php
+ *laravel
+ *ci
+-pyton
